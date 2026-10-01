@@ -6,6 +6,8 @@
 
 **Your scroll direction. Your choice.**
 
+[Download RouScroll 0.5.0 for Apple Silicon](https://github.com/Erenalev/RouScroll/releases/download/v0.5.0/RouScroll-0.5.0-arm64.zip) · [Release notes](https://github.com/Erenalev/RouScroll/releases/tag/v0.5.0)
+
 [Features](#features) · [Installation](#installation) · [Languages](#languages) · [Build and test](#build-and-test) · [Troubleshooting](#troubleshooting)
 
 A lightweight, native macOS menu bar app for controlling your scroll direction.
@@ -34,7 +36,7 @@ Intel Macs are not supported by the current prebuilt application. A universal bu
 
 ## Installation
 
-1. Build the app from source using the commands below. A prebuilt ZIP is also available when attached to a GitHub release.
+1. [Download the Apple Silicon ZIP](https://github.com/Erenalev/RouScroll/releases/download/v0.5.0/RouScroll-0.5.0-arm64.zip), or build the app from source using the commands below.
 2. Move `RouScroll.app` into your Applications folder before enabling launch at login.
 3. Open RouScroll. If macOS blocks the locally signed build, review the notice in **System Settings → Privacy & Security**. Only open an app whose source and origin you trust.
 4. When prompted, open **System Settings → Privacy & Security → Accessibility** and add/enable the exact copy of `RouScroll.app` you are running.
